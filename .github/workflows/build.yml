@@ -1,5 +1,5 @@
 name: Continuous Integration
-
+run-name: "CI Protocol"
 on:
   push:
     branches:
